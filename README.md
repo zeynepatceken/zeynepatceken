@@ -1,6 +1,6 @@
 # Hi there, I'm Zeynep 👋✨👩‍💻
 
-Welcome to my github profile! I'm a computer engineer passionate about cloud solutions and devops processes. Here's a little bit about me:
+Welcome to my github profile! I'm a computer engineer passionate about cloud solutions and devOps processes. Here's a little bit about me:
 
 ## 🧠 About Me
 
@@ -14,7 +14,7 @@ Welcome to my github profile! I'm a computer engineer passionate about cloud sol
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://medium.com/@zeynepatceken" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40"/>
   </a>
 </p>
 
@@ -25,7 +25,8 @@ Welcome to my github profile! I'm a computer engineer passionate about cloud sol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=zeynepatceken&color=blueviolet)
