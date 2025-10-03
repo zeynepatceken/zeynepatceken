@@ -1,6 +1,6 @@
 # Hi there, I'm Zeynep 👋✨👩‍💻
 
-Welcome to my github profile! I'm a computer engineer passionate about cloud solutions and devOps processes. Here's a little bit about me:
+Welcome to my github profile! I'm a computer engineer passionate about cloud solutions and devops processes. Here's a little bit about me:
 
 ## 🧠 About Me
 
