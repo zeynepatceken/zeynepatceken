@@ -1,19 +1,31 @@
-# Hi, I'm Zeynep  🌸✨👩‍💻
+# Hi there, I'm Zeynep 👋✨👩‍💻
 
+Welcome to my github profile! I'm a computer engineer passionate about cloud solutions and devops processes. Here's a little bit about me:
 
-💻 Currently focusing on **Cloud Computing** and **DevOps Process & Tools**  
-🚀 Passionate about continuous learning and building practical solutions  
+## 🧠 About Me
 
-## 🛠 Skills 
-- Cloud: Huawei Cloud, Terraform
-- DevOps: Git, GitHub, CI/CD, Containerization  
-- Other: Linux, Networking fundamentals  
+🌱 Currently improving my skills in cloud computing and infrastructure automation.  
+✍️ Regularly writing technical articles on [Medium](https://medium.com/@zeynepatceken).  
+📫 Reach me at: zeynepatcekenn@gmail.com
 
-## 🌱 Currently
-- Learning and applying DevOps methodologies and cloud provider solutions
-- Sharing knowledge through articles on [Medium](https://medium.com/@zeynepatceken)  
-- Uploading projects to GitHub  
+## 📫 You Can Find Me
+<p align="left">
+  <a href="https://linkedin.com/in/zeynepatceken" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@zeynepatceken" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" width="40" height="40"/>
+  </a>
+</p>
 
-## 📫 Reach Me
-- LinkedIn: [linkedin.com/in/zeynepatceken](https://linkedin.com/in/zeynepatceken)  
-- Email: zeynepatcekenn@gmail.com
+## 🚀 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=zeynepatceken&color=blueviolet)
