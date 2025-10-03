@@ -1,12 +1,11 @@
-# Hi, I'm Zeynep # Hi, I'm Zeynep 🌸✨👩‍💻
+# Hi, I'm Zeynep  🌸✨👩‍💻
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500"/>
 
 💻 Currently focusing on **Cloud Computing** and **DevOps Process & Tools**  
 🚀 Passionate about continuous learning and building practical solutions  
 
 ## 🛠 Skills 
-- Cloud: Huawei Cloud, Terraform (basic)  
+- Cloud: Huawei Cloud, Terraform
 - DevOps: Git, GitHub, CI/CD, Containerization  
 - Other: Linux, Networking fundamentals  
 
